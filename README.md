@@ -22,5 +22,5 @@ This engine solves a critical problem in FinTech: **pre-trained financial AI mod
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/cse-sentiment-engine.git](https://github.com/your-username/cse-sentiment-engine.git)
+   git clone [https://github.com/VisuraLokithaDeSilva/cse-sentiment-engine.git](https://github.com/VisuraLokithaDeSilva/cse-sentiment-engine.git)
    cd cse-sentiment-engine
